@@ -1,0 +1,14 @@
+Class;Name;Signature;Ret Type
+org.apache.flume.Clock;currentTimeMillis;;long
+org.apache.flume.Clock;currentTimeMillis;;long
+org.apache.flume.SystemClock;currentTimeMillis;;long
+org.apache.flume.SystemClock;currentTimeMillis;;long
+org.apache.flume.tools.TimestampRoundDownUtil;roundDownTimeStampHours;long,int,TimeZone;long
+org.apache.flume.tools.TimestampRoundDownUtil;roundDownTimeStampHours;long,int,TimeZone;long
+org.apache.flume.tools.TimestampRoundDownUtil;roundDownTimeStampHours;long,int;long
+org.apache.flume.tools.TimestampRoundDownUtil;roundDownTimeStampMinutes;long,int,TimeZone;long
+org.apache.flume.tools.TimestampRoundDownUtil;roundDownTimeStampMinutes;long,int,TimeZone;long
+org.apache.flume.tools.TimestampRoundDownUtil;roundDownTimeStampMinutes;long,int;long
+org.apache.flume.tools.TimestampRoundDownUtil;roundDownTimeStampSeconds;long,int,TimeZone;long
+org.apache.flume.tools.TimestampRoundDownUtil;roundDownTimeStampSeconds;long,int,TimeZone;long
+org.apache.flume.tools.TimestampRoundDownUtil;roundDownTimeStampSeconds;long,int;long

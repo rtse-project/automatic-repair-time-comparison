@@ -1,0 +1,4 @@
+Class;Name;Signature;TimePars
+org.apache.flume.source.SpoolDirectorySource$SpoolDirectoryRunnable;waitAndGetNewBackoffInterval;int;0,Duration
+org.apache.flume.lifecycle.LifecycleController;waitForOneOf;LifecycleAware,LifecycleState[],long;2,Duration
+org.apache.flume.formatter.output.BucketPath;roundDown;int,int,long,TimeZone;0,Duration,2,Timestamp

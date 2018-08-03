@@ -1,0 +1,2238 @@
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_140_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+arg1 >= 0
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_140_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_149_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription != null
+arg1 >= 0
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_149_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription != null
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_152_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription != null
+arg1 >= 0
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_152_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription != null
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_188_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+arg1 >= 0
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_188_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_251_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::ENTER
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.RoundRobinAssignor] }
+this.assignors.getClass().getName() == java.util.Arrays$ArrayList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinator$DefaultOffsetCommitCallback.class
+this.autoCommitIntervalMs one of { 0, 1000, 10000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+arg0 one of { 0, 1000, 10000 }
+arg2 >= 0
+arg3 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_251_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.RoundRobinAssignor] }
+this.assignors.getClass().getName() == java.util.Arrays$ArrayList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinator$DefaultOffsetCommitCallback.class
+this.autoCommitIntervalMs one of { 0, 1000, 10000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_259_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::ENTER
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg2 >= 0
+arg3 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_259_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_262_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::ENTER
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg2 >= 0
+arg3 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_262_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_267_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::ENTER
+this.interceptors == null
+this.excludeInternalTopics == true
+arg3 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_267_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.interceptors == null
+this.excludeInternalTopics == true
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_276_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::ENTER
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.RoundRobinAssignor] }
+this.assignors.getClass().getName() == java.util.Arrays$ArrayList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinator$DefaultOffsetCommitCallback.class
+this.autoCommitIntervalMs one of { 0, 1000, 10000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.HashSet.class
+this.assignmentSnapshot == null
+arg0 one of { 0, 1000, 10000 }
+arg3 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_276_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.RoundRobinAssignor] }
+this.assignors.getClass().getName() == java.util.Arrays$ArrayList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinator$DefaultOffsetCommitCallback.class
+this.autoCommitIntervalMs one of { 0, 1000, 10000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.HashSet.class
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_279_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::ENTER
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.RoundRobinAssignor] }
+this.assignors.getClass().getName() == java.util.Arrays$ArrayList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinator$DefaultOffsetCommitCallback.class
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs one of { 1000, 10000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.HashSet.class
+this.assignmentSnapshot == null
+arg0 one of { 1000, 10000 }
+arg3 == true
+arg4 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_279_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.RoundRobinAssignor] }
+this.assignors.getClass().getName() == java.util.Arrays$ArrayList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinator$DefaultOffsetCommitCallback.class
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs one of { 1000, 10000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.HashSet.class
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_282_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::ENTER
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.RoundRobinAssignor] }
+this.assignors.getClass().getName() == java.util.Arrays$ArrayList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinator$DefaultOffsetCommitCallback.class
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs one of { 1000, 10000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.HashSet.class
+this.assignmentSnapshot == null
+arg0 one of { 1000, 10000 }
+arg3 == true
+arg4 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_282_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.RoundRobinAssignor] }
+this.assignors.getClass().getName() == java.util.Arrays$ArrayList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinator$DefaultOffsetCommitCallback.class
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs one of { 1000, 10000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.HashSet.class
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_290_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.nextAutoCommitDeadline one of { 0, 1518431135483L, 1518431135739L }
+arg0 == 2000
+arg1 one of { 0, 1518431135483L, 1518431135739L }
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_290_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.nextAutoCommitDeadline one of { 0, 1518431135483L, 1518431135739L }
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_297_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.nextAutoCommitDeadline one of { 0, 1518431135483L, 1518431135739L }
+arg0 == 2000
+arg1 one of { 0, 1518431135483L, 1518431135739L }
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_297_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.nextAutoCommitDeadline one of { 0, 1518431135483L, 1518431135739L }
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_322_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == true
+this.nextAutoCommitDeadline one of { 0, 1518431135483L, 1518431135739L }
+arg0 == 2000
+arg1 one of { 0, 1518431135483L, 1518431135739L }
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_322_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == true
+this.nextAutoCommitDeadline one of { 0, 1518431135483L, 1518431135739L }
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_326_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == true
+this.nextAutoCommitDeadline one of { 0, 1518431135483L, 1518431135739L }
+arg0 == 2000
+arg1 one of { 0, 1518431135483L, 1518431135739L }
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_326_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == true
+this.nextAutoCommitDeadline one of { 0, 1518431135483L, 1518431135739L }
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_353_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.interceptors == null
+this.excludeInternalTopics == true
+arg0 >= 0
+arg1 >= 0
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_353_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.interceptors == null
+this.excludeInternalTopics == true
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_357_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.interceptors == null
+this.excludeInternalTopics == true
+arg0 >= 0
+arg1 >= 0
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_357_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.interceptors == null
+this.excludeInternalTopics == true
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_361_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.interceptors == null
+this.excludeInternalTopics == true
+arg0 >= 0
+arg1 >= 0
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_361_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.interceptors == null
+this.excludeInternalTopics == true
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_364_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.interceptors == null
+this.excludeInternalTopics == true
+arg0 >= 0
+arg1 >= 0
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_364_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.interceptors == null
+this.excludeInternalTopics == true
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_376_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 0, 1518431128274L, 1518431128341L }
+arg0 one of { 1000, 2000 }
+arg1 one of { 0, 1518431128274L, 1518431128341L }
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_376_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 0, 1518431128274L, 1518431128341L }
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_378_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 0, 1518431128274L, 1518431128341L }
+arg0 one of { 1000, 2000 }
+arg1 one of { 0, 1518431128274L, 1518431128341L }
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_378_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 0, 1518431128274L, 1518431128341L }
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_380_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 0, 1518431128274L, 1518431128341L }
+arg0 one of { 1000, 2000 }
+arg1 one of { 0, 1518431128274L, 1518431128341L }
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_380_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 0, 1518431128274L, 1518431128341L }
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_396_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 0, 1518431128274L, 1518431128341L }
+arg0 one of { 1000, 2000 }
+arg1 one of { 0, 1518431128274L, 1518431128341L }
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_396_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 0, 1518431128274L, 1518431128341L }
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_399_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline == 0
+arg0 == 2000
+arg1 == 0
+arg2 == false
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_399_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline == 0
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_401_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline == 0
+arg0 == 2000
+arg1 == 0
+arg2 == false
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_401_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline == 0
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_403_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline == 0
+arg0 == 2000
+arg1 == 0
+arg2 == false
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_403_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == false
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline == 0
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_419_timeoutMs_endTimeMs_autoCommitIntervalMs_now_nextAutoCommitDeadline(long, long, int, long, long, boolean, boolean, boolean, boolean):::ENTER
+this.autoCommitIntervalMs one of { 1000, 2000, 5000 }
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg0 >= 0
+arg2 one of { 1000, 2000, 5000 }
+arg5 == true
+arg6 == false
+arg7 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_419_timeoutMs_endTimeMs_autoCommitIntervalMs_now_nextAutoCommitDeadline(long, long, int, long, long, boolean, boolean, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitIntervalMs one of { 1000, 2000, 5000 }
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_421_timeoutMs_endTimeMs_autoCommitIntervalMs_now_nextAutoCommitDeadline(long, long, int, long, long, boolean, boolean, boolean, boolean):::ENTER
+this.autoCommitIntervalMs one of { 1000, 2000, 5000 }
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg0 >= 0
+arg2 one of { 1000, 2000, 5000 }
+arg5 == true
+arg6 == false
+arg7 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_421_timeoutMs_endTimeMs_autoCommitIntervalMs_now_nextAutoCommitDeadline(long, long, int, long, long, boolean, boolean, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitIntervalMs one of { 1000, 2000, 5000 }
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_428_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg1 >= 0
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_428_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_429_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg1 >= 0
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_429_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_431_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor] }
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.Collections$SingletonSet.class
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 0, 1518431128274L, 1518431133000L }
+this.nextAutoCommitDeadline == 0  (mod 2)
+arg0 one of { 1000, 2000 }
+arg1 one of { 0, 1518431128274L, 1518431133000L }
+arg1 == 0  (mod 2)
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_431_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor] }
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.Collections$SingletonSet.class
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 0, 1518431128274L, 1518431133000L }
+this.nextAutoCommitDeadline == 0  (mod 2)
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_438_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg0 one of { 1000, 2000 }
+arg1 >= 0
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_438_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_459_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg0 one of { 1000, 2000 }
+arg1 >= 0
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_459_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_466_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg0 one of { 1000, 2000 }
+arg1 >= 0
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_466_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_491_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg0 one of { 1000, 2000 }
+arg1 >= 0
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_491_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_505_timeoutMs_autoCommitIntervalMs_nextAutoCommitDeadline(long, int, long, boolean, boolean):::ENTER
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg2 >= 0
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_505_timeoutMs_autoCommitIntervalMs_nextAutoCommitDeadline(long, int, long, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_518_timeoutMs_startMs_remainingMs_autoCommitIntervalMs_now_nextAutoCommitDeadline(long, long, long, int, long, long, boolean, boolean, boolean, boolean, boolean):::ENTER
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor] }
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg0 one of { 1000, 60000, 9223372036854775807L }
+arg2 one of { 1000, 60000, 9223372036854775707L }
+arg3 one of { 1000, 2000 }
+arg5 >= 0
+arg9 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_518_timeoutMs_startMs_remainingMs_autoCommitIntervalMs_now_nextAutoCommitDeadline(long, long, long, int, long, long, boolean, boolean, boolean, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor] }
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_523_timeoutMs_startMs_remainingMs_autoCommitIntervalMs_now_nextAutoCommitDeadline(long, long, long, int, long, long, boolean, boolean, boolean, boolean, boolean):::ENTER
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.Collections$SingletonSet.class
+this.assignmentSnapshot == null
+arg2 >= -1
+arg3 == 2000
+arg5 >= 0
+arg9 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_523_timeoutMs_startMs_remainingMs_autoCommitIntervalMs_now_nextAutoCommitDeadline(long, long, long, int, long, long, boolean, boolean, boolean, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.Collections$SingletonSet.class
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_528_timeoutMs_startMs_remainingMs_autoCommitIntervalMs_now_nextAutoCommitDeadline(long, long, long, int, long, long, boolean, boolean, boolean, boolean, boolean):::ENTER
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.Collections$SingletonSet.class
+this.assignmentSnapshot == null
+arg0 one of { 1000, 60000, 9223372036854775807L }
+arg2 one of { -1, 9223372036854775807L }
+arg3 == 2000
+arg5 >= 0
+arg9 == true
+arg10 == false
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_528_timeoutMs_startMs_remainingMs_autoCommitIntervalMs_now_nextAutoCommitDeadline(long, long, long, int, long, long, boolean, boolean, boolean, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.Collections$SingletonSet.class
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_530_timeoutMs_startMs_remainingMs_autoCommitIntervalMs_now_nextAutoCommitDeadline(long, long, long, int, long, long, boolean, boolean, boolean, boolean, boolean):::ENTER
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.Collections$SingletonSet.class
+this.assignmentSnapshot == null
+arg0 one of { 1000, 60000, 9223372036854775807L }
+arg2 one of { -101, 9223372036854775707L }
+arg3 == 2000
+arg5 >= 0
+arg9 == true
+arg10 == false
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_530_timeoutMs_startMs_remainingMs_autoCommitIntervalMs_now_nextAutoCommitDeadline(long, long, long, int, long, long, boolean, boolean, boolean, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.Collections$SingletonSet.class
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_535_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::ENTER
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs one of { 1000, 2000, 10000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg0 one of { 1000, 2000, 10000 }
+arg3 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_535_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs one of { 1000, 2000, 10000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_538_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::ENTER
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RoundRobinAssignor], [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor] }
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg0 one of { 1000, 2000 }
+arg3 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_538_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RoundRobinAssignor], [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor] }
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_539_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::ENTER
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RoundRobinAssignor], [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor] }
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg0 one of { 1000, 2000 }
+arg3 == true
+arg4 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_539_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RoundRobinAssignor], [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor] }
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_541_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::ENTER
+this.interceptors == null
+this.excludeInternalTopics == true
+arg3 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_541_autoCommitIntervalMs_now_nextAutoCommitDeadline(int, long, long, boolean, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.interceptors == null
+this.excludeInternalTopics == true
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_545_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.RoundRobinAssignor] }
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinator$DefaultOffsetCommitCallback.class
+this.autoCommitIntervalMs one of { 1000, 5000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+arg0 one of { 1000, 5000 }
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_545_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.RoundRobinAssignor] }
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinator$DefaultOffsetCommitCallback.class
+this.autoCommitIntervalMs one of { 1000, 5000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_546_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.RoundRobinAssignor] }
+this.assignors.getClass().getName() == java.util.Arrays$ArrayList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinator$DefaultOffsetCommitCallback.class
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs == 1000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 1518431128274L, 1518431128341L }
+arg0 == 1000
+arg1 one of { 1518431128274L, 1518431128341L }
+arg2 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_546_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() one of { [org.apache.kafka.clients.consumer.RangeAssignor], [org.apache.kafka.clients.consumer.RoundRobinAssignor] }
+this.assignors.getClass().getName() == java.util.Arrays$ArrayList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinator$DefaultOffsetCommitCallback.class
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs == 1000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 1518431128274L, 1518431128341L }
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_561_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg0 one of { 1000, 2000 }
+arg2 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_561_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_566_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.autoCommitEnabled == true
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+arg2 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_566_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitEnabled == true
+this.excludeInternalTopics == true
+this.isLeader == false
+this.assignmentSnapshot == null
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_572_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.Collections$SingletonSet.class
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 1518431133006L, 1518431134240L, 1518431135614L }
+arg0 == 2000
+arg1 one of { 1518431133006L, 1518431134240L, 1518431135614L }
+arg2 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_572_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.Collections$SingletonSet.class
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 1518431133006L, 1518431134240L, 1518431135614L }
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_573_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.Collections$SingletonSet.class
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 1518431133006L, 1518431134240L, 1518431135614L }
+arg0 == 2000
+arg1 one of { 1518431133006L, 1518431134240L, 1518431135614L }
+arg2 == true
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_573_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.assignors[].getClass().getName() == [org.apache.kafka.clients.consumer.internals.MockPartitionAssignor]
+this.assignors[].getClass().getName() elements == org.apache.kafka.clients.consumer.internals.MockPartitionAssignor.class
+this.assignors.getClass().getName() == java.util.Collections$SingletonList.class
+this.defaultOffsetCommitCallback.getClass().getName() == org.apache.kafka.clients.consumer.internals.ConsumerCoordinatorTest$MockCommitCallback.class
+this.autoCommitEnabled == true
+this.autoCommitIntervalMs == 2000
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription.getClass().getName() == java.util.Collections$SingletonSet.class
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 1518431133006L, 1518431134240L, 1518431135614L }
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_575_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.excludeInternalTopics == true
+arg1 >= 0
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_575_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.excludeInternalTopics == true
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())
+this.joinedSubscription.getClass().getName() == orig(this.joinedSubscription.getClass().getName())
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_721_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::ENTER
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 0, 1518431128274L, 1518431128341L }
+arg0 one of { 1000, 2000 }
+arg1 one of { 0, 1518431128274L, 1518431128341L }
+size(this.assignors[]) == 1
+===========================================================================
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.invariant_721_autoCommitIntervalMs_nextAutoCommitDeadline(int, long, boolean):::EXIT
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log)
+this.assignors == orig(this.assignors)
+this.assignors[] == orig(this.assignors[])
+this.metadata == orig(this.metadata)
+this.sensors == orig(this.sensors)
+this.subscriptions == orig(this.subscriptions)
+this.defaultOffsetCommitCallback == orig(this.defaultOffsetCommitCallback)
+this.autoCommitEnabled == orig(this.autoCommitEnabled)
+this.autoCommitIntervalMs == orig(this.autoCommitIntervalMs)
+this.interceptors == orig(this.interceptors)
+this.excludeInternalTopics == orig(this.excludeInternalTopics)
+this.pendingAsyncCommits == orig(this.pendingAsyncCommits)
+this.completedOffsetCommits == orig(this.completedOffsetCommits)
+this.isLeader == orig(this.isLeader)
+this.joinedSubscription == orig(this.joinedSubscription)
+this.metadataSnapshot == orig(this.metadataSnapshot)
+this.assignmentSnapshot == orig(this.assignmentSnapshot)
+this.nextAutoCommitDeadline == orig(this.nextAutoCommitDeadline)
+this.autoCommitIntervalMs one of { 1000, 2000 }
+this.interceptors == null
+this.excludeInternalTopics == true
+this.isLeader == false
+this.joinedSubscription == null
+this.assignmentSnapshot == null
+this.nextAutoCommitDeadline one of { 0, 1518431128274L, 1518431128341L }
+size(this.assignors[]) == 1
+org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName() == orig(org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.log.getClass().getName())
+this.assignors.getClass().getName() == orig(this.assignors.getClass().getName())
+this.defaultOffsetCommitCallback.getClass().getName() == orig(this.defaultOffsetCommitCallback.getClass().getName())

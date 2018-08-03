@@ -1,0 +1,5 @@
+Class;Method;Line;ListVars
+WorkerCoordinator;poll;56;[long-deadline,long-now,long-timeout]
+WorkerCoordinator;poll;73;[long-deadline,long-now,long-timeout]
+WorkerCoordinator;poll;62;[long-deadline,long-now,long-timeout]
+WorkerCoordinator;poll;70;[long-deadline,long-now,long-timeout,long-remaining]

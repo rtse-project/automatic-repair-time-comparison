@@ -1,0 +1,16 @@
+Class;Name;Signature;Ret Type
+org.pf.file.FileLocator;lastModified;;long
+org.pf.file.FileLocator;lastModified;;long
+org.gudy.azureus2.core3.util.TimeFormatter;parseHTTPDate;String;long
+org.gudy.azureus2.core3.util.SystemTime;getHighPrecisionCounter;;long
+com.aelitis.azureus.ui.swt.search.SBC_SearchResult;getTime;;long
+com.aelitis.azureus.ui.swt.utils.SearchSubsResultBase;getTime;;long
+com.aelitis.azureus.ui.swt.search.SBC_SearchResult;getTime;;long
+org.pf.file.FileLocator;lastModified;;long
+org.pf.file.FileLocator;lastModified;;long
+org.pf.file.FileLocator;lastModified;;long
+org.pf.file.FileLocator;lastModified;;long
+org.gudy.azureus2.core3.util.TimeFormatter;parseHTTPDate;String;long
+org.gudy.azureus2.core3.util.SystemTime;getHighPrecisionCounter;;long
+org.gudy.azureus2.core3.util.SystemTime$RawProvider;getTime;;long
+org.gudy.azureus2.core3.util.SystemTime.SystemTimeProvider;getTime;;long
